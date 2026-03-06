@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.5.5](https://github.com/last-partizan/django-fields/compare/v0.5.4...v0.5.5) (2026-03-06)
+
 ### [0.5.4](https://github.com/last-partizan/django-fields/compare/v0.5.4-beta.2...v0.5.4) (2022-05-27)
 
 ### [0.5.4-beta.2](https://github.com/last-partizan/django-fields/compare/v0.5.4-beta.1...v0.5.4-beta.2) (2022-05-27)
